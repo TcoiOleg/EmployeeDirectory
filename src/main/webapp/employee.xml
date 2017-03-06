@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <unit name="Руководство">
+        <employee id="17" fio="Иванов Иван Иванович" position="Генеральный директор" email="ivanov@veterok.ru" tel="+7 (495) 111-22-33" tel2="+7 (910) 222-33-44" room="23-К"/>
+        <employee id="18" fio="Петров Петр Петрович" position="Заместитель Генерального директора" email="petrov@veterok.ru" tel="+7 (495) 111-22-34" room="24-К"/>
+        <employee id="19" fio="Сидоров Сидор Сидорович" position="Заместитель Генерального директора" email="sidorov@veterok.ru" tel="+7 (495) 111-22-35" tel2="+7 (903) 777-88-99" room="25-К"/>
+    </unit>
+    <unit name="Департамент продаж">
+        <employee id="20" fio="Николаев Николай Николаевич" position="Директор департамента" email="nikolaev@veterok.ru" tel="+7 (495) 111-22-36" room="26-К"/>
+
+        <unit name="Управление по работе с клиентами">
+        </unit>
+
+        <unit name="Управление маркетинга">
+        </unit>
+    </unit>
+</employees>
